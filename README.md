@@ -35,9 +35,12 @@ We started by listing the fundamentals of Ruby that we had come across:
 ### 2. Research and use a variety of resources
 I used the following to help with my understanding:
 
-* Mozilla docs (MDN): this was helpful with explaining the fundamentals of JavaScript
-* Stack Overflow
-*
+* [Mozilla docs (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript): this was helpful with explaining the fundamentals of JavaScript
+* Stack Overflow:
+* [Pivotal Blog](https://content.pivotal.io/blog/javascript-constructors-prototypes-and-the-new-keyword)
+* [Learn JavaScript in minutes](https://learnxinyminutes.com/docs/javascript/)
+* [Github pills on js_functions](https://github.com/makersacademy/course/blob/master/pills/js_functions.md)
+* [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript): this was helpful as it contained a large collection of useful resources
 
 I also attended a workshop on debugging using JavaScript. This really helped with my understanding of isolating issues by gaining visibility using console.log(). My code for the Debugging Workshop is [here](https://github.com/anhnguyenis/debugging_js).
 
