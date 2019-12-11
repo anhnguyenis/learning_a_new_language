@@ -55,7 +55,7 @@ I then moved onto attempting familiar challenges that I had completed in Ruby bu
 I then progressed onto the Airport Challenge briefly. This is my code for the [Airport Challenge](https://github.com/anhnguyenis/airport_js) (the stories are not fully completed but gave me another chance to practise TDD).
 
 ### 5. Approach a new exercise to test learning
-Once familiar with JavaScript I moved onto the [Thermostat Challenge]. I managed to write the logic for controlling a thermostat using JavaScript TDD. I then created an interface[Thermostat Challenge](https://github.com/anhnguyenis/thermostat_js). My next steps were then to link the logic to the interface. I did some styling using some basic CSS.
+Once familiar with JavaScript I moved onto the [Thermostat Challenge](https://github.com/makersacademy/course/blob/master/thermostat/README.md). I managed to write the logic for controlling a thermostat using JavaScript TDD. I then created an interface for the thermostat to display the relevant buttons and functions. My next steps were then to link the logic to the interface and did some styling using some basic CSS. This is my code for the [Thermostat Challenge](https://github.com/anhnguyenis/thermostat_js).
 
 ### 6. Talk it through and explain it to someone
 I was able to talk through the Thermostat Challenge with my pair partner and found it helpful to explain my understanding of things to consolidate my learning. Working with my pair, we were able to write the majority of the logic to get the Thermostat to set an initial temperature, increase and decrease the temperature and set limits. I was able to instruct my pair using the driver-navigator style to practise our Javascript TDD.
