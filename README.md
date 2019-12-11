@@ -31,7 +31,7 @@ We started by listing the fundamentals of Ruby that we had come across:
 
 * Mozilla docs: this was helpful with explaining the fundamentals of JavaScript
 
-I also attended a workshop on debugging using JavaScript. This really helped with my understanding of isolating issues by gaining visibility using console.log(). My code for the Debugging Workshop is [here]](https://github.com/anhnguyenis/debugging_js).
+I also attended a workshop on debugging using JavaScript. This really helped with my understanding of isolating issues by gaining visibility using console.log(). My code for the Debugging Workshop is [here](https://github.com/anhnguyenis/debugging_js).
 
 Similarly, I attended a workshop on control of flow of code. This helped me understand how to control the flow of code.
 
@@ -43,6 +43,8 @@ I then progressed onto the Airport Challenge. This is my code for the [Airport C
 
 5. Once familiar with JavaScript I moved onto the [Thermostat Challenge]. I managed to write the logic for controlling a thermostat using JavaScript TDD. I then created an interface[Thermostat Challenge](https://github.com/anhnguyenis/thermostat_js). My next steps were then to link the logic to the interface. I did some styling using some basic CSS.
 
+I was able to talk through the Thermostat Challenge with my pair partner and found it helpful to explain my understanding of things to consolidate my learning. Working with my pair, we were able to write the majority of the logic to get the Thermostat to set an initial temperature, increase and decrease the temperature and set limits. I was able to instruct my pair using the driver-navigator style to practise our Javascript TDD.
+
 ## Reflections
 
-I found that the best way to learn a new language was to briefly read through the basics using a language document. Then to start practicing with basic exercises to understand the nuances. I found that I could build on my understanding by knowing how I previously solved a problem such as FizzBuzz, as I already knew what I wanted to do, I just needed to find a way to do it. This definitely sped up my learning as I could spend my time focusing on figuring out how to run code rather than what to name functions or methods to solve a user story.
+I found that the best way for myself to learn a new language was to briefly read through the basics using a language document. Then to start practising with basic exercises to understand the nuances. I found that I could build on my understanding by knowing how I previously solved a problem such as FizzBuzz, as I already knew what I wanted to do, I just needed to find a way to do it. This definitely sped up my learning as I could spend my time focusing on figuring out how to run code rather than what to name functions or methods to solve a user story.
