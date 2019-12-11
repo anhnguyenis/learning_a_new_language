@@ -2,20 +2,20 @@
 
 ## My process for learning a new language
 
-1. Start by learning by translation using a language I am familiar with, such as Ruby, and comparing similarities and differences.
+### 1. Start by learning by translation using a language I am familiar with, such as Ruby, and comparing similarities and differences.
 
-2. Use various resources to find out how to use the basics such as:
+### 2. Use various resources to find out how to use the basics such as:
 * Language documents
 * Exercises or challenges
 * Demonstration videos
 
-3. Do basic exercises to gain familiarity.
+### 3. Do basic exercises to gain familiarity.
 
-4. Complete challenges I have done before in another language such as FizzBuzz and Airport challenge and try to complete them in the new language.
+### 4. Complete challenges I have done before in another language such as FizzBuzz and Airport challenge and try to complete them in the new language.
 
-5. Attempt new challenges in the new language to test what I have learned.
+### 5. Attempt new challenges in the new language to test what I have learned.
 
-6. Try to show another person what I have learned and understood to consolidate learning.
+### 6. Try to show another person what I have learned and understood to consolidate learning.
 
 
 ## My steps for learning JavaScript
@@ -38,7 +38,7 @@ We started by listing the fundamentals of Ruby that we had come across:
 * Testing
 
 ### Research and use a variety of resources
-We used the following to help us with our understanding:
+I used the following to help with my understanding:
 
 * Mozilla docs (MDN): this was helpful with explaining the fundamentals of JavaScript
 * Stack Overflow
@@ -48,7 +48,7 @@ I also attended a workshop on debugging using JavaScript. This really helped wit
 Similarly, I attended a workshop on control of flow of code. This helped me understand how to control the flow of code.
 
 ### Complete basic exercises
-To grasp the fundamentals of JavaScript, I completed the JavaScript Basics task and the [JavaScripting workshopper](https://github.com/workshopper/JavaScripting). My solutions to the JavaScripting workshopped is [here][JavaScripting](https://github.com/anhnguyenis/JavaScripting)
+To grasp the fundamentals of JavaScript, I completed the JavaScript Basics task and the [JavaScripting workshopper](https://github.com/workshopper/JavaScripting). My solutions to the JavaScripting workshopped is [here](https://github.com/anhnguyenis/JavaScripting)
 
 ### Practise using previous challenges
 I then moved onto attempting familiar challenges that I had completed in Ruby but instead using JavaScript. I started with the fizzbuzz challenge which helped me practice TDD with JavaScript and getting familiar with the structure of the syntax and matchers required. This is my code for the [FizzBuzz Challenge](https://github.com/anhnguyenis/fizzbuzz_js).
