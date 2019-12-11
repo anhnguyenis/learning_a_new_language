@@ -45,7 +45,7 @@ I used the following to help with my understanding:
 
 I also attended a workshop on debugging using JavaScript. This really helped with my understanding of isolating issues by gaining visibility using console.log(). My code for the Debugging Workshop is [here](https://github.com/anhnguyenis/debugging_js).
 
-Similarly, I attended a workshop on control of flow of code. This helped me understand how to control the flow of code.
+Similarly, I attended a workshop on Asychronous Flow in JavaScript. This helped me understand how to control the flow of code in JavasScript by placing callback functions. I also learned how to use console.log() within lines of code to show the order that the code is executed. 
 
 ### 3. Complete basic exercises
 To grasp the fundamentals of JavaScript, I completed the JavaScript Basics task and the [JavaScripting workshopper](https://github.com/workshopper/JavaScripting). My solutions to the JavaScripting workshopped is [here](https://github.com/anhnguyenis/JavaScripting)
