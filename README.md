@@ -5,10 +5,9 @@
 1. Start by learning by translation using a language I am familiar with, such as Ruby, and comparing similarities and differences.
 
 2. Use various resources to find out how to use the basics such as:
-
-* Mozilla docs: MDN
-* Codecademy
-* Stack Overflow
+* language documents
+* exercises
+* videos
 
 3. Do basic exercises to gain familiarity
 
@@ -24,12 +23,21 @@
 We started by listing the fundamentals of Ruby that we had come across:
 
 * Arrays and hashmaps
-* Strings
-* Classes and methods
+* Strings and integers
+* Classes, methods and objects
+* Instances
+* Comparators
+* Booleans
+* Print/puts
+* User input
+* Variables
+* Loops/Conditionals
+* Testing
 
 2. We used the following to help us with our understanding:
 
-* Mozilla docs: this was helpful with explaining the fundamentals of JavaScript
+* Mozilla docs (MDN): this was helpful with explaining the fundamentals of JavaScript
+* Stack Overflow
 
 I also attended a workshop on debugging using JavaScript. This really helped with my understanding of isolating issues by gaining visibility using console.log(). My code for the Debugging Workshop is [here](https://github.com/anhnguyenis/debugging_js).
 
